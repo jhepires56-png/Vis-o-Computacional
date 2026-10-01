@@ -1,0 +1,1 @@
+Arquivo principal do Streamlit (Interface, menu lateral, controle da câmera, visualização do histórico e dashboard).
